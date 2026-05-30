@@ -3,7 +3,7 @@ import os
 
 # 1. Configure your API key
 # Replace "YOUR_API_KEY" with the key you got from Google AI Studio.
-genai.configure(api_key="AIzaSyAgPLXon_bkylN3reDLmR0WlUurWp_Ldjw")
+genai.configure(api_key="*")
 
 # 2. Define the LLM to use
 model = genai.GenerativeModel('gemini-1.5-pro-latest')
