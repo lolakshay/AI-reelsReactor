@@ -9,8 +9,8 @@ import os
 # The specific 'ClientError' import is removed.
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "8117177812:AAEh8GBWIpYI3Vry7rYBlYKJ-aJk-DtbuBM"
-GEMINI_API_KEY = "AIzaSyBLE_mcD5XpVX7sVTSgUL9QMRIrHaO5ba8"
+BOT_TOKEN = "*"
+GEMINI_API_KEY = "*"
 LOCAL_API_BASE_URL = "http://localhost:3000/igdl"
 PROMPT_TEXT = "Imagine you’re my close friend. I just sent you a reel — 99% of the time, react exactly like a friend would using only a single emoji, but occasionally you can add a short text reply instead."
 
