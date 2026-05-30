@@ -3,7 +3,7 @@ import time
 from google.genai.errors import ClientError
 
 # 1. WARNING: Replace this with your actual key for local testing.
-API_KEY = "AIzaSyBLE_mcD5XpVX7sVTSgUL9QMRIrHaO5ba8"
+API_KEY = "*"
 
 # 2. Define the path to your video file
 VIDEO_FILE_PATH = "sample_video.mp4"  # Assuming you fixed this path
